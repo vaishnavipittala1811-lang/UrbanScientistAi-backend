@@ -1,0 +1,72 @@
+﻿location_id,state,district,city,zone,current_population,population_density_per_sqkm,annual_growth_rate_pct,urbanization_rate_pct,forecast_5yr,forecast_10yr,forecast_15yr,migrant_influx_rate,dependency_ratio,population_pressure_score,data_type
+TS-LOC-001,Telangana,Hyderabad,Hyderabad Central,Charminar Zone,428931,17946,2.1,96,475900,528013,585832,2.79,0.51,95,SYNTHETIC_DEMO
+TS-LOC-002,Telangana,Hyderabad,Hyderabad Central,Khairatabad Zone,204771,6094,4.03,96,249494,303986,370379,6.63,0.47,38.1,SYNTHETIC_DEMO
+TS-LOC-003,Telangana,Hyderabad,Hyderabad Central,Secunderabad Zone,324313,8557,4.15,96,397430,487031,596833,3.05,0.46,53.5,SYNTHETIC_DEMO
+TS-LOC-004,Telangana,Hyderabad,Cyberabad,Madhapur IT Corridor,131012,3429,3.15,96,152987,178650,208616,2.81,0.44,21.4,SYNTHETIC_DEMO
+TS-LOC-005,Telangana,Hyderabad,Cyberabad,Gachibowli Financial District,268004,8072,3.43,96,317229,375497,444466,7.05,0.38,50.4,SYNTHETIC_DEMO
+TS-LOC-006,Telangana,Hyderabad,North Hyderabad,Kukatpally Zone,307891,8898,2.51,96,348520,394511,446570,2.77,0.48,55.6,SYNTHETIC_DEMO
+TS-LOC-007,Telangana,Hyderabad,North Hyderabad,Miyapur Metro Zone,372137,12043,4.1,96,454942,556173,679929,5.82,0.49,75.3,SYNTHETIC_DEMO
+TS-LOC-008,Telangana,Warangal,Warangal City,Fort Warangal Heritage Zone,196167,5944,2.12,74.4,217861,241954,268712,5.16,0.39,37.2,SYNTHETIC_DEMO
+TS-LOC-009,Telangana,Warangal,Warangal City,Narsampet Corridor,135486,7245,2.1,74.4,150322,166783,185046,5.02,0.45,45.3,SYNTHETIC_DEMO
+TS-LOC-010,Telangana,Hanamkonda,Hanamkonda Urban,Subedari Administrative Zone,176565,7953,3.63,74.4,211024,252208,301430,4.65,0.54,49.7,SYNTHETIC_DEMO
+TS-LOC-011,Telangana,Hanamkonda,Hanamkonda Urban,Kazipet Junction Node,99384,4476,3.04,74.4,115437,134083,155741,4.59,0.41,28,SYNTHETIC_DEMO
+TS-LOC-012,Telangana,Karimnagar,Karimnagar Urban,Collectorate Zone,129742,3459,3.81,74.4,156414,188569,227336,4.78,0.54,21.6,SYNTHETIC_DEMO
+TS-LOC-013,Telangana,Karimnagar,Karimnagar Urban,Manakondur Highway Zone,194120,8987,3.38,74.4,229220,270667,319608,4.57,0.46,56.2,SYNTHETIC_DEMO
+TS-LOC-014,Telangana,Nizamabad,Nizamabad City,Khaleelwadi Commercial Hub,173852,6209,2.31,74.4,194881,218454,244878,2.71,0.5,38.8,SYNTHETIC_DEMO
+TS-LOC-015,Telangana,Nizamabad,Nizamabad City,Bodhan Road Zone,220802,9200,3.82,74.4,266322,321227,387452,2.57,0.51,57.5,SYNTHETIC_DEMO
+TS-LOC-016,Telangana,Khammam,Khammam Municipality,Fort Zone,204462,5394,3.76,74.4,245902,295741,355682,4.91,0.53,33.7,SYNTHETIC_DEMO
+TS-LOC-017,Telangana,Khammam,Khammam Municipality,Wyra Road Node,233295,7649,3.33,74.4,274813,323720,381330,5.48,0.43,47.8,SYNTHETIC_DEMO
+TS-LOC-018,Telangana,Nalgonda,Nalgonda Urban,Clock Tower Center,110443,2945,3.95,74.4,134048,162698,197472,6.16,0.48,18.4,SYNTHETIC_DEMO
+TS-LOC-019,Telangana,Nalgonda,Nalgonda Urban,Miryalaguda Bypass Zone,281897,7940,3.89,74.4,341160,412883,499685,1.69,0.49,49.6,SYNTHETIC_DEMO
+TS-LOC-020,Telangana,Siddipet,Siddipet Model Town,Komati Cheruvu Eco-Zone,112360,2613,2.45,52.7,126815,143130,161544,4.64,0.48,16.3,SYNTHETIC_DEMO
+TS-LOC-021,Telangana,Siddipet,Siddipet Model Town,Gajwel Civic Node,173466,9034,2.59,52.7,197124,224008,254559,4.25,0.41,56.5,SYNTHETIC_DEMO
+TS-LOC-022,Telangana,Sangareddy,Sangareddy-Patancheru,Patancheru Industrial Belt,216754,6054,3.5,80.6,257435,305752,363138,2.16,0.5,37.8,SYNTHETIC_DEMO
+TS-LOC-023,Telangana,Sangareddy,Sangareddy-Patancheru,IIT Kandi Knowledge Hub,111589,4981,4.38,80.6,138263,171314,212266,2.82,0.54,31.1,SYNTHETIC_DEMO
+TS-LOC-024,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Kompally Logistics Zone,161733,7701,4.1,96,197720,241716,295501,3.32,0.42,48.1,SYNTHETIC_DEMO
+TS-LOC-025,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Uppal IT & Industrial Park,406620,9941,3.08,96,473217,550722,640921,4.39,0.42,62.1,SYNTHETIC_DEMO
+TS-LOC-026,Telangana,Rangareddy,Shamshabad Outer,Airport Aerotropolis,357168,10175,2.08,96,395891,438812,486387,1.65,0.38,63.6,SYNTHETIC_DEMO
+TS-LOC-027,Telangana,Rangareddy,Shamshabad Outer,Maheshwaram Pharma City,292003,11187,4.1,96,356977,436409,533516,6.56,0.46,69.9,SYNTHETIC_DEMO
+TS-LOC-028,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Mining Operations Belt,187295,4406,3.71,80.6,224713,269607,323471,3.73,0.44,27.5,SYNTHETIC_DEMO
+TS-LOC-029,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Palwancha Thermal Power Zone,106209,3588,4.43,80.6,131913,163837,203488,3.34,0.44,22.4,SYNTHETIC_DEMO
+TS-LOC-030,Telangana,Peddapalli,Ramagundam Industrial City,NTPC Power Corridor,150973,4631,2.1,80.6,167505,185847,206198,6.12,0.41,28.9,SYNTHETIC_DEMO
+TS-LOC-031,Telangana,Peddapalli,Ramagundam Industrial City,Godavarikhani Coal Node,136443,4488,2.41,80.6,153696,173131,195023,5.78,0.38,28.1,SYNTHETIC_DEMO
+TS-LOC-032,Telangana,Rajanna Sircilla,Sircilla Textile City,Textile Park Zone,154230,5300,3.55,52.7,183619,218609,260267,3.91,0.42,33.1,SYNTHETIC_DEMO
+TS-LOC-033,Telangana,Rajanna Sircilla,Sircilla Textile City,Vemulawada Temple Node,78534,2541,3.38,52.7,92734,109502,129302,3.01,0.46,15.9,SYNTHETIC_DEMO
+TS-LOC-034,Telangana,Suryapet,Suryapet City,Highway Commercial Corridor,159431,6203,3.37,74.4,188167,222084,262114,1.63,0.43,38.8,SYNTHETIC_DEMO
+TS-LOC-035,Telangana,Suryapet,Suryapet City,Kodad Gateway,182547,5353,3.91,74.4,221137,267884,324515,3.91,0.44,33.5,SYNTHETIC_DEMO
+TS-LOC-036,Telangana,Mahbubnagar,Mahbubnagar Urban,Pillalamarri Heritage Zone,172073,5046,2.4,74.4,193736,218128,245590,3.86,0.5,31.5,SYNTHETIC_DEMO
+TS-LOC-037,Telangana,Mahbubnagar,Mahbubnagar Urban,Jadcherla Industrial Corridor,279915,6827,3.28,74.4,328932,386534,454223,5.54,0.51,42.7,SYNTHETIC_DEMO
+TS-LOC-038,Telangana,Mancherial,Mancherial Urban,Godavari Riverfront Zone,214220,6531,3.86,80.6,258881,312855,378080,2.8,0.53,40.8,SYNTHETIC_DEMO
+TS-LOC-039,Telangana,Mancherial,Mancherial Urban,Bellampalli Node,286318,9839,4.34,80.6,354081,437881,541515,6.35,0.38,61.5,SYNTHETIC_DEMO
+TS-LOC-040,Telangana,Jagtial,Jagtial Urban,Tower Circle Zone,143142,4953,2.36,52.7,160849,180746,203105,3.88,0.44,31,SYNTHETIC_DEMO
+TS-LOC-041,Telangana,Jagtial,Jagtial Urban,Koratla Node,79622,3110,2.14,52.7,88514,98399,109388,4.75,0.46,19.4,SYNTHETIC_DEMO
+TS-LOC-042,Telangana,Jangaon,Jangaon Town,Station Ghanpur Zone,170512,8441,3.59,52.7,203396,242623,289415,3.33,0.41,52.8,SYNTHETIC_DEMO
+TS-LOC-043,Telangana,Jangaon,Jangaon Town,Old Town Civic Zone,102464,2822,3.49,52.7,121636,144396,171414,2.93,0.39,17.6,SYNTHETIC_DEMO
+TS-LOC-044,Telangana,Jayashankar Bhupalpally,Bhupalpally,Coalfield Belt Zone,114426,5554,4.16,80.6,140290,172002,210881,4.64,0.54,34.7,SYNTHETIC_DEMO
+TS-LOC-045,Telangana,Jayashankar Bhupalpally,Bhupalpally,Kataram Node,207564,10075,2.64,80.6,236447,269350,306832,5.89,0.53,63,SYNTHETIC_DEMO
+TS-LOC-046,Telangana,Jogulamba Gadwal,Gadwal Town,Fort Area Zone,179081,5016,2.78,52.7,205396,235578,270195,4.8,0.45,31.4,SYNTHETIC_DEMO
+TS-LOC-047,Telangana,Jogulamba Gadwal,Gadwal Town,Alampur Heritage Zone,180343,8547,2.53,52.7,204340,231530,262339,4.67,0.53,53.4,SYNTHETIC_DEMO
+TS-LOC-048,Telangana,Kamareddy,Kamareddy Urban,Highway Gateway Zone,115755,4368,3.58,52.7,138012,164550,196190,4.47,0.5,27.3,SYNTHETIC_DEMO
+TS-LOC-049,Telangana,Kamareddy,Kamareddy Urban,Banswada Node,69774,1789,2.58,52.7,79251,90016,102243,4.3,0.45,11.2,SYNTHETIC_DEMO
+TS-LOC-050,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Kagaznagar Industrial Node,137638,5856,2.94,52.7,159095,183899,212569,4.48,0.48,36.6,SYNTHETIC_DEMO
+TS-LOC-051,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Asifabad Central,192882,4715,3.96,52.7,234219,284416,345370,4.39,0.4,29.5,SYNTHETIC_DEMO
+TS-LOC-052,Telangana,Mahabubabad,Mahabubabad Town,Railway Junction Zone,130983,4532,2.92,52.7,151256,174667,201702,4.42,0.51,28.3,SYNTHETIC_DEMO
+TS-LOC-053,Telangana,Mahabubabad,Mahabubabad Town,Dornakal Node,144841,4247,2.56,52.7,164354,186496,211622,2.62,0.38,26.5,SYNTHETIC_DEMO
+TS-LOC-054,Telangana,Medak,Medak Heritage Town,Cathedral Heritage Zone,174468,8901,3.55,52.7,207714,247295,294420,2.41,0.51,55.6,SYNTHETIC_DEMO
+TS-LOC-055,Telangana,Medak,Medak Heritage Town,Narsapur Forest Margin,160518,6525,3.13,52.7,187261,218461,254858,4.65,0.43,40.8,SYNTHETIC_DEMO
+TS-LOC-056,Telangana,Mulugu,Mulugu Eco Hub,Ramappa UNESCO Heritage Zone,183618,4949,2.14,52.7,204124,226920,252262,2.02,0.49,30.9,SYNTHETIC_DEMO
+TS-LOC-057,Telangana,Mulugu,Mulugu Eco Hub,Medaram Eco-Belt,160046,8604,3.09,52.7,186349,216975,252634,1.53,0.52,53.8,SYNTHETIC_DEMO
+TS-LOC-058,Telangana,Nagarkurnool,Nagarkurnool Town,Kalwakurthy Corridor,114215,3884,2.45,52.7,128908,145493,164211,3.22,0.39,24.3,SYNTHETIC_DEMO
+TS-LOC-059,Telangana,Nagarkurnool,Nagarkurnool Town,Town Center,61206,1936,2.39,52.7,68878,77512,87228,3.36,0.45,12.1,SYNTHETIC_DEMO
+TS-LOC-060,Telangana,Narayanpet,Narayanpet Handloom Hub,Weavers Cluster Zone,194518,6527,2.66,52.7,221802,252913,288389,2.74,0.43,40.8,SYNTHETIC_DEMO
+TS-LOC-061,Telangana,Narayanpet,Narayanpet Handloom Hub,Makthal Node,128109,3171,2.65,52.7,146007,166406,189654,1.79,0.46,19.8,SYNTHETIC_DEMO
+TS-LOC-062,Telangana,Nirmal,Nirmal Craft Town,Artisan Cluster Zone,56124,1550,3.06,52.7,65252,75866,88206,2.24,0.38,9.7,SYNTHETIC_DEMO
+TS-LOC-063,Telangana,Nirmal,Nirmal Craft Town,Bhainsa Border Node,78592,4225,2.69,52.7,89746,102484,117030,2.13,0.49,26.4,SYNTHETIC_DEMO
+TS-LOC-064,Telangana,Vikarabad,Vikarabad Hill Station,Ananthagiri Hills Eco-Zone,184018,6280,2.44,52.7,207590,234183,264182,2.11,0.5,39.3,SYNTHETIC_DEMO
+TS-LOC-065,Telangana,Vikarabad,Vikarabad Hill Station,Tandur Cement Corridor,122289,3095,3.14,52.7,142732,166593,194443,4.79,0.48,19.3,SYNTHETIC_DEMO
+TS-LOC-066,Telangana,Wanaparthy,Wanaparthy Town,Palace Heritage Zone,120605,2992,2.33,52.7,135325,151843,170376,3.08,0.47,18.7,SYNTHETIC_DEMO
+TS-LOC-067,Telangana,Wanaparthy,Wanaparthy Town,Pebbair Highway Node,174516,4703,3.46,52.7,206870,245222,290684,1.99,0.52,29.4,SYNTHETIC_DEMO
+TS-LOC-068,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Yadagirigutta Temple City,134115,4191,3.94,52.7,162701,197380,239451,3.68,0.41,26.2,SYNTHETIC_DEMO
+TS-LOC-069,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Choutuppal Industrial Cluster,167664,4683,2.15,52.7,186479,207407,230682,1.86,0.51,29.3,SYNTHETIC_DEMO
+TS-LOC-070,Telangana,Adilabad,Adilabad Urban,Cotton Market Trading Zone,154572,5051,2.95,74.4,178756,206725,239070,2.29,0.4,31.6,SYNTHETIC_DEMO
+TS-LOC-071,Telangana,Adilabad,Adilabad Urban,Bela Border Node,246767,6687,3.13,74.4,287880,335843,391798,4.11,0.49,41.8,SYNTHETIC_DEMO

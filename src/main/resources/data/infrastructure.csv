@@ -1,0 +1,72 @@
+﻿location_id,state,district,city,zone,power_grid_reliability_pct,sewage_network_coverage_pct,solid_waste_collected_tpd,waste_processing_efficiency_pct,green_cover_ratio_pct,road_quality_pci,infrastructure_stress_score,repair_priority_rank,data_type
+TS-LOC-001,Telangana,Hyderabad,Hyderabad Central,Charminar Zone,89.5,53.9,193,91,22.8,84.7,24.6,Routine,SYNTHETIC_DEMO
+TS-LOC-002,Telangana,Hyderabad,Hyderabad Central,Khairatabad Zone,89.1,56.5,92.1,70.7,29.2,75.4,27.1,Routine,SYNTHETIC_DEMO
+TS-LOC-003,Telangana,Hyderabad,Hyderabad Central,Secunderabad Zone,93.3,54.4,145.9,74.8,29.2,59.2,32.2,Routine,SYNTHETIC_DEMO
+TS-LOC-004,Telangana,Hyderabad,Cyberabad,Madhapur IT Corridor,99.1,48.9,59,64.1,25.5,60.2,32.1,Routine,SYNTHETIC_DEMO
+TS-LOC-005,Telangana,Hyderabad,Cyberabad,Gachibowli Financial District,94.4,66.4,120.6,81.3,24.3,52.7,30,Routine,SYNTHETIC_DEMO
+TS-LOC-006,Telangana,Hyderabad,North Hyderabad,Kukatpally Zone,97.5,42.7,138.6,81.6,28.7,77.5,28.7,Routine,SYNTHETIC_DEMO
+TS-LOC-007,Telangana,Hyderabad,North Hyderabad,Miyapur Metro Zone,96.3,83.4,167.5,69.4,26.1,73.3,16.3,Routine,SYNTHETIC_DEMO
+TS-LOC-008,Telangana,Warangal,Warangal City,Fort Warangal Heritage Zone,95.6,76.8,88.3,76.9,32.1,69.7,20,Routine,SYNTHETIC_DEMO
+TS-LOC-009,Telangana,Warangal,Warangal City,Narsampet Corridor,94.5,63.9,61,72.8,36.1,52.4,30.9,Routine,SYNTHETIC_DEMO
+TS-LOC-010,Telangana,Hanamkonda,Hanamkonda Urban,Subedari Administrative Zone,98.7,54.8,79.5,88.7,35.5,81.7,22.6,Routine,SYNTHETIC_DEMO
+TS-LOC-011,Telangana,Hanamkonda,Hanamkonda Urban,Kazipet Junction Node,93.3,42,44.7,60.9,37.9,81.5,28.8,Routine,SYNTHETIC_DEMO
+TS-LOC-012,Telangana,Karimnagar,Karimnagar Urban,Collectorate Zone,99.1,62.2,58.4,73.3,31.7,67.8,24.8,Routine,SYNTHETIC_DEMO
+TS-LOC-013,Telangana,Karimnagar,Karimnagar Urban,Manakondur Highway Zone,98.3,74.3,87.4,68.2,33,45.3,28.7,Routine,SYNTHETIC_DEMO
+TS-LOC-014,Telangana,Nizamabad,Nizamabad City,Khaleelwadi Commercial Hub,91.6,66.8,78.2,78.6,35,69.3,24.9,Routine,SYNTHETIC_DEMO
+TS-LOC-015,Telangana,Nizamabad,Nizamabad City,Bodhan Road Zone,90,52.4,99.4,64.2,34.4,56.4,34.9,Routine,SYNTHETIC_DEMO
+TS-LOC-016,Telangana,Khammam,Khammam Municipality,Fort Zone,95.9,42.8,92,70.1,37,73.1,30.7,Routine,SYNTHETIC_DEMO
+TS-LOC-017,Telangana,Khammam,Khammam Municipality,Wyra Road Node,95.6,72,105,60.1,36.3,77.4,19,Routine,SYNTHETIC_DEMO
+TS-LOC-018,Telangana,Nalgonda,Nalgonda Urban,Clock Tower Center,89.2,69,49.7,66.2,32.1,73,23.5,Routine,SYNTHETIC_DEMO
+TS-LOC-019,Telangana,Nalgonda,Nalgonda Urban,Miryalaguda Bypass Zone,96.3,56.8,126.9,84.1,31.4,50,33.7,Routine,SYNTHETIC_DEMO
+TS-LOC-020,Telangana,Siddipet,Siddipet Model Town,Komati Cheruvu Eco-Zone,91,69.4,50.6,85.5,48.9,63,26.4,Routine,SYNTHETIC_DEMO
+TS-LOC-021,Telangana,Siddipet,Siddipet Model Town,Gajwel Civic Node,89.3,49.4,78.1,72.9,45.1,51.3,38,Routine,SYNTHETIC_DEMO
+TS-LOC-022,Telangana,Sangareddy,Sangareddy-Patancheru,Patancheru Industrial Belt,91.6,88.2,97.5,83,30.1,67.2,18.1,Routine,SYNTHETIC_DEMO
+TS-LOC-023,Telangana,Sangareddy,Sangareddy-Patancheru,IIT Kandi Knowledge Hub,97,63.3,50.2,80.8,35.6,76.2,22.1,Routine,SYNTHETIC_DEMO
+TS-LOC-024,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Kompally Logistics Zone,98.9,99,72.8,83,26.7,58,15.4,Routine,SYNTHETIC_DEMO
+TS-LOC-025,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Uppal IT & Industrial Park,95.7,59.3,183,84.3,29.5,55.2,31.2,Routine,SYNTHETIC_DEMO
+TS-LOC-026,Telangana,Rangareddy,Shamshabad Outer,Airport Aerotropolis,96,60.2,160.7,76.6,23.6,79.3,22.4,Routine,SYNTHETIC_DEMO
+TS-LOC-027,Telangana,Rangareddy,Shamshabad Outer,Maheshwaram Pharma City,93.2,56.3,131.4,72.1,28.6,46,36.2,Routine,SYNTHETIC_DEMO
+TS-LOC-028,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Mining Operations Belt,94.3,74.9,84.3,83.4,33.7,48.9,28.4,Routine,SYNTHETIC_DEMO
+TS-LOC-029,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Palwancha Thermal Power Zone,92.4,51.2,47.8,83.4,33.7,71.9,29.2,Routine,SYNTHETIC_DEMO
+TS-LOC-030,Telangana,Peddapalli,Ramagundam Industrial City,NTPC Power Corridor,98.3,60.3,67.9,74.5,33.4,58.8,28.8,Routine,SYNTHETIC_DEMO
+TS-LOC-031,Telangana,Peddapalli,Ramagundam Industrial City,Godavarikhani Coal Node,91,43.3,61.4,82.7,32.3,49.3,40.3,Routine,SYNTHETIC_DEMO
+TS-LOC-032,Telangana,Rajanna Sircilla,Sircilla Textile City,Textile Park Zone,98,69.3,69.4,91.9,50.3,60.9,25,Routine,SYNTHETIC_DEMO
+TS-LOC-033,Telangana,Rajanna Sircilla,Sircilla Textile City,Vemulawada Temple Node,91.6,54,35.3,72,44.4,77,26.7,Routine,SYNTHETIC_DEMO
+TS-LOC-034,Telangana,Suryapet,Suryapet City,Highway Commercial Corridor,96.8,66.8,71.7,68.1,36.2,51.3,29.6,Routine,SYNTHETIC_DEMO
+TS-LOC-035,Telangana,Suryapet,Suryapet City,Kodad Gateway,91.5,42.1,82.1,70.4,36.3,58.4,37.4,Routine,SYNTHETIC_DEMO
+TS-LOC-036,Telangana,Mahbubnagar,Mahbubnagar Urban,Pillalamarri Heritage Zone,99.1,74,77.4,66.7,32.3,59.4,23.6,Routine,SYNTHETIC_DEMO
+TS-LOC-037,Telangana,Mahbubnagar,Mahbubnagar Urban,Jadcherla Industrial Corridor,93.4,69.5,126,75.2,31.3,63,25.6,Routine,SYNTHETIC_DEMO
+TS-LOC-038,Telangana,Mancherial,Mancherial Urban,Godavari Riverfront Zone,88.7,45.4,96.4,64,29.2,47.2,41,Routine,SYNTHETIC_DEMO
+TS-LOC-039,Telangana,Mancherial,Mancherial Urban,Bellampalli Node,96.5,61.2,128.8,83.6,30.2,63.2,27.5,Routine,SYNTHETIC_DEMO
+TS-LOC-040,Telangana,Jagtial,Jagtial Urban,Tower Circle Zone,91.1,58.9,64.4,86.2,44.4,76.7,25.2,Routine,SYNTHETIC_DEMO
+TS-LOC-041,Telangana,Jagtial,Jagtial Urban,Koratla Node,97.4,76.7,35.8,62.3,47,74.2,18,Routine,SYNTHETIC_DEMO
+TS-LOC-042,Telangana,Jangaon,Jangaon Town,Station Ghanpur Zone,90.6,73.8,76.7,80.3,47.4,50.3,29.4,Routine,SYNTHETIC_DEMO
+TS-LOC-043,Telangana,Jangaon,Jangaon Town,Old Town Civic Zone,93.4,73.2,46.1,75.1,50.3,47.7,29.7,Routine,SYNTHETIC_DEMO
+TS-LOC-044,Telangana,Jayashankar Bhupalpally,Bhupalpally,Coalfield Belt Zone,88.8,52.4,51.5,76.9,30.7,55.5,35.6,Routine,SYNTHETIC_DEMO
+TS-LOC-045,Telangana,Jayashankar Bhupalpally,Bhupalpally,Kataram Node,95.4,64,93.4,69.2,28.3,83.9,19.6,Routine,SYNTHETIC_DEMO
+TS-LOC-046,Telangana,Jogulamba Gadwal,Gadwal Town,Fort Area Zone,95.2,53.6,80.6,86.1,46.5,73.4,27,Routine,SYNTHETIC_DEMO
+TS-LOC-047,Telangana,Jogulamba Gadwal,Gadwal Town,Alampur Heritage Zone,88.1,74.9,81.2,76.1,45.8,61.9,25.7,Routine,SYNTHETIC_DEMO
+TS-LOC-048,Telangana,Kamareddy,Kamareddy Urban,Highway Gateway Zone,91.9,49.9,52.1,61.5,46.5,80.3,26.9,Routine,SYNTHETIC_DEMO
+TS-LOC-049,Telangana,Kamareddy,Kamareddy Urban,Banswada Node,88.5,56.7,31.4,71.8,50.1,50.5,35.9,Routine,SYNTHETIC_DEMO
+TS-LOC-050,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Kagaznagar Industrial Node,98,43.7,61.9,77.4,43.4,60.3,34.2,Routine,SYNTHETIC_DEMO
+TS-LOC-051,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Asifabad Central,96,75.7,86.8,89.9,49.2,52.1,26.5,Routine,SYNTHETIC_DEMO
+TS-LOC-052,Telangana,Mahabubabad,Mahabubabad Town,Railway Junction Zone,96.2,70.8,58.9,62.2,48.1,73.9,20.5,Routine,SYNTHETIC_DEMO
+TS-LOC-053,Telangana,Mahabubabad,Mahabubabad Town,Dornakal Node,96.5,66.4,65.2,91.9,50.3,67.3,24.3,Routine,SYNTHETIC_DEMO
+TS-LOC-054,Telangana,Medak,Medak Heritage Town,Cathedral Heritage Zone,93.1,79.5,78.5,64.7,42.5,70.2,19.7,Routine,SYNTHETIC_DEMO
+TS-LOC-055,Telangana,Medak,Medak Heritage Town,Narsapur Forest Margin,91.2,72.1,72.2,89.4,45.7,78.9,19.8,Routine,SYNTHETIC_DEMO
+TS-LOC-056,Telangana,Mulugu,Mulugu Eco Hub,Ramappa UNESCO Heritage Zone,96.7,80.4,82.6,76.9,44.2,49.6,25.5,Routine,SYNTHETIC_DEMO
+TS-LOC-057,Telangana,Mulugu,Mulugu Eco Hub,Medaram Eco-Belt,91.3,66.4,72,87.3,43,62.2,27.6,Routine,SYNTHETIC_DEMO
+TS-LOC-058,Telangana,Nagarkurnool,Nagarkurnool Town,Kalwakurthy Corridor,94.2,73.7,51.4,69.2,47.9,52.7,27.5,Routine,SYNTHETIC_DEMO
+TS-LOC-059,Telangana,Nagarkurnool,Nagarkurnool Town,Town Center,92,71.3,27.5,87.4,47.3,84.5,17.9,Routine,SYNTHETIC_DEMO
+TS-LOC-060,Telangana,Narayanpet,Narayanpet Handloom Hub,Weavers Cluster Zone,92.5,49.6,87.5,62.7,48.7,81,26.5,Routine,SYNTHETIC_DEMO
+TS-LOC-061,Telangana,Narayanpet,Narayanpet Handloom Hub,Makthal Node,90.1,43,57.6,72.9,46.1,51.9,39.8,Routine,SYNTHETIC_DEMO
+TS-LOC-062,Telangana,Nirmal,Nirmal Craft Town,Artisan Cluster Zone,91.2,78.2,25.3,61.9,46.4,53.1,26.7,Routine,SYNTHETIC_DEMO
+TS-LOC-063,Telangana,Nirmal,Nirmal Craft Town,Bhainsa Border Node,93.5,54.7,35.4,85.7,42.6,48.7,35.8,Routine,SYNTHETIC_DEMO
+TS-LOC-064,Telangana,Vikarabad,Vikarabad Hill Station,Ananthagiri Hills Eco-Zone,96.1,43.1,82.8,87.8,43.6,71.2,31.2,Routine,SYNTHETIC_DEMO
+TS-LOC-065,Telangana,Vikarabad,Vikarabad Hill Station,Tandur Cement Corridor,94.5,53.2,55,91.3,43.1,72.8,27.6,Routine,SYNTHETIC_DEMO
+TS-LOC-066,Telangana,Wanaparthy,Wanaparthy Town,Palace Heritage Zone,88,49.7,54.3,72,48.9,50.6,38.5,Routine,SYNTHETIC_DEMO
+TS-LOC-067,Telangana,Wanaparthy,Wanaparthy Town,Pebbair Highway Node,92,66.7,78.5,65.6,44.8,70.3,24.4,Routine,SYNTHETIC_DEMO
+TS-LOC-068,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Yadagirigutta Temple City,99,48.2,60.4,75.3,49.4,79.4,25.6,Routine,SYNTHETIC_DEMO
+TS-LOC-069,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Choutuppal Industrial Cluster,88.2,65.7,75.4,61.7,43.1,78.6,23,Routine,SYNTHETIC_DEMO
+TS-LOC-070,Telangana,Adilabad,Adilabad Urban,Cotton Market Trading Zone,98.3,53.3,69.6,78.5,33.1,58.3,31.5,Routine,SYNTHETIC_DEMO
+TS-LOC-071,Telangana,Adilabad,Adilabad Urban,Bela Border Node,89.7,79.9,111,81.2,32.8,82,16.4,Routine,SYNTHETIC_DEMO

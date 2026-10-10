@@ -1,0 +1,72 @@
+﻿location_id,state,district,city,zone,avg_speed_kmh,congestion_level_pct,peak_hour_delay_min,daily_vehicle_count,road_network_density,incident_frequency_weekly,public_transit_coverage_pct,traffic_risk_score,hotspot_flag,timestamp,data_type
+TS-LOC-001,Telangana,Hyderabad,Hyderabad Central,Charminar Zone,36.6,65.4,42,78569,10.7,4,68.6,48.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-002,Telangana,Hyderabad,Hyderabad Central,Khairatabad Zone,20.7,85.9,59,111456,13.6,5,61.1,67.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-003,Telangana,Hyderabad,Hyderabad Central,Secunderabad Zone,19.9,69.8,49,171180,9.2,6,64.8,57.9,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-004,Telangana,Hyderabad,Cyberabad,Madhapur IT Corridor,23.3,83.2,51,100508,12.5,5,62.2,64.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-005,Telangana,Hyderabad,Cyberabad,Gachibowli Financial District,36.5,77.9,47,104926,8.1,6,65.6,56.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-006,Telangana,Hyderabad,North Hyderabad,Kukatpally Zone,35.1,95,68,100590,7.4,7,61.2,67,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-007,Telangana,Hyderabad,North Hyderabad,Miyapur Metro Zone,23,87.7,54,73576,8.4,7,61,67.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-008,Telangana,Warangal,Warangal City,Fort Warangal Heritage Zone,43.1,63.1,44,101965,9.5,3,70.2,44.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-009,Telangana,Warangal,Warangal City,Narsampet Corridor,28.7,41.3,32,132597,11.7,5,73.1,37.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-010,Telangana,Hanamkonda,Hanamkonda Urban,Subedari Administrative Zone,27.6,71,47,138649,8.1,5,65.8,55.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-011,Telangana,Hanamkonda,Hanamkonda Urban,Kazipet Junction Node,29.6,53.6,35,72464,9.6,4,70.3,44.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-012,Telangana,Karimnagar,Karimnagar Urban,Collectorate Zone,32.6,64.6,39,111697,11.4,5,68.1,49.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-013,Telangana,Karimnagar,Karimnagar Urban,Manakondur Highway Zone,43,68.2,43,98907,6,4,68.9,47.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-014,Telangana,Nizamabad,Nizamabad City,Khaleelwadi Commercial Hub,39.7,40.2,25,45075,6.5,2,75.1,32.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-015,Telangana,Nizamabad,Nizamabad City,Bodhan Road Zone,45.5,70.7,53,102858,8.6,5,68.7,48.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-016,Telangana,Khammam,Khammam Municipality,Fort Zone,38.4,64.6,45,89778,7.2,3,69,47.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-017,Telangana,Khammam,Khammam Municipality,Wyra Road Node,41.8,67.6,40,118842,11.1,5,68.9,47.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-018,Telangana,Nalgonda,Nalgonda Urban,Clock Tower Center,46.9,60.8,40,106242,11.2,3,71.3,41.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-019,Telangana,Nalgonda,Nalgonda Urban,Miryalaguda Bypass Zone,47.2,56.5,39,133538,14.2,5,72.4,39,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-020,Telangana,Siddipet,Siddipet Model Town,Komati Cheruvu Eco-Zone,50.6,52.2,34,93617,7.1,2,74,35.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-021,Telangana,Siddipet,Siddipet Model Town,Gajwel Civic Node,68.7,37.5,26,28271,9.5,2,80.4,19,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-022,Telangana,Sangareddy,Sangareddy-Patancheru,Patancheru Industrial Belt,41.9,68.5,50,127371,13.1,5,68.7,48.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-023,Telangana,Sangareddy,Sangareddy-Patancheru,IIT Kandi Knowledge Hub,45.1,54.1,35,46049,13.7,4,72.6,38.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-024,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Kompally Logistics Zone,32.6,94.7,66,191710,16.2,5,60.9,67.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-025,Telangana,Medchal-Malkajgiri,Medchal-Kompally,Uppal IT & Industrial Park,32.1,95,63,118547,9,6,60.7,68.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-026,Telangana,Rangareddy,Shamshabad Outer,Airport Aerotropolis,34.7,76.8,55,86198,5.3,5,65.5,56.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-027,Telangana,Rangareddy,Shamshabad Outer,Maheshwaram Pharma City,22.8,69.7,44,122179,10.6,4,65.3,56.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-028,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Mining Operations Belt,24.9,44.3,37,118541,13,4,71.8,40.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-029,Telangana,Bhadradri Kothagudem,Kothagudem-Palwancha,Palwancha Thermal Power Zone,29.7,61.4,47,137126,9.2,6,68.4,49,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-030,Telangana,Peddapalli,Ramagundam Industrial City,NTPC Power Corridor,36.9,53.8,36,148054,14.7,5,71.4,41.5,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-031,Telangana,Peddapalli,Ramagundam Industrial City,Godavarikhani Coal Node,44.1,47.3,37,67562,9.7,2,74.1,34.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-032,Telangana,Rajanna Sircilla,Sircilla Textile City,Textile Park Zone,57.1,38.5,34,51979,11.8,4,78.3,24.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-033,Telangana,Rajanna Sircilla,Sircilla Textile City,Vemulawada Temple Node,56.9,29.6,24,38533,8.1,3,80.4,19,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-034,Telangana,Suryapet,Suryapet City,Highway Commercial Corridor,36.1,72.4,52,47103,6,5,66.8,53,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-035,Telangana,Suryapet,Suryapet City,Kodad Gateway,26.3,44.4,32,53061,10.5,4,72,40.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-036,Telangana,Mahbubnagar,Mahbubnagar Urban,Pillalamarri Heritage Zone,26,71.7,53,136555,7.5,6,65.4,56.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-037,Telangana,Mahbubnagar,Mahbubnagar Urban,Jadcherla Industrial Corridor,28.9,69,42,91470,5.9,4,66.5,53.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-038,Telangana,Mancherial,Mancherial Urban,Godavari Riverfront Zone,37.1,51.4,35,150862,7.7,3,72,40,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-039,Telangana,Mancherial,Mancherial Urban,Bellampalli Node,41.1,45.1,36,80203,9.9,3,74.2,34.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-040,Telangana,Jagtial,Jagtial Urban,Tower Circle Zone,51.3,29.9,24,43830,9.8,2,79.4,21.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-041,Telangana,Jagtial,Jagtial Urban,Koratla Node,48.9,44.9,32,52381,9,2,75.4,31.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-042,Telangana,Jangaon,Jangaon Town,Station Ghanpur Zone,50.3,36.1,21,66476,10.1,3,77.8,25.5,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-043,Telangana,Jangaon,Jangaon Town,Old Town Civic Zone,65.4,48.2,32,82308,5.1,4,77.3,26.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-044,Telangana,Jayashankar Bhupalpally,Bhupalpally,Coalfield Belt Zone,42.7,52.9,42,67575,5.1,5,72.5,38.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-045,Telangana,Jayashankar Bhupalpally,Bhupalpally,Kataram Node,31.7,47.1,30,65435,12.5,5,72.2,39.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-046,Telangana,Jogulamba Gadwal,Gadwal Town,Fort Area Zone,58,34.5,21,37528,5.9,1,79.4,21.5,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-047,Telangana,Jogulamba Gadwal,Gadwal Town,Alampur Heritage Zone,61.8,27.5,16,41116,9.8,1,81.7,15.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-048,Telangana,Kamareddy,Kamareddy Urban,Highway Gateway Zone,66.6,46.3,32,28358,9.1,3,78,25.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-049,Telangana,Kamareddy,Kamareddy Urban,Banswada Node,66.3,37,30,41646,11.4,3,80.1,19.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-050,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Kagaznagar Industrial Node,48.7,51.4,39,40872,5.9,2,73.8,35.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-051,Telangana,Komaram Bheem Asifabad,Asifabad-Kagaznagar,Asifabad Central,36.7,45.8,27,87628,8,5,73.3,36.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-052,Telangana,Mahabubabad,Mahabubabad Town,Railway Junction Zone,45.8,33.6,26,87052,6.9,4,77.7,25.8,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-053,Telangana,Mahabubabad,Mahabubabad Town,Dornakal Node,47.2,43.1,34,95192,9,4,75.6,31,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-054,Telangana,Medak,Medak Heritage Town,Cathedral Heritage Zone,64.1,31.7,22,45784,10.1,2,81,17.4,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-055,Telangana,Medak,Medak Heritage Town,Narsapur Forest Margin,49.6,38.4,29,92902,8.2,2,77.1,27.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-056,Telangana,Mulugu,Mulugu Eco Hub,Ramappa UNESCO Heritage Zone,48.5,48.3,34,27813,10.9,2,74.6,33.6,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-057,Telangana,Mulugu,Mulugu Eco Hub,Medaram Eco-Belt,47.1,43.5,34,45117,9.1,4,75.5,31.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-058,Telangana,Nagarkurnool,Nagarkurnool Town,Kalwakurthy Corridor,62.8,31.9,19,95704,9.8,2,80.8,18,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-059,Telangana,Nagarkurnool,Nagarkurnool Town,Town Center,56.5,32.1,26,38118,9.2,2,79.7,20.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-060,Telangana,Narayanpet,Narayanpet Handloom Hub,Weavers Cluster Zone,39.9,47,36,25930,7.7,3,73.5,36.2,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-061,Telangana,Narayanpet,Narayanpet Handloom Hub,Makthal Node,42.6,42.9,31,28456,7.1,3,74.9,32.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-062,Telangana,Nirmal,Nirmal Craft Town,Artisan Cluster Zone,66.2,31.9,23,82865,5.7,1,81.3,16.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-063,Telangana,Nirmal,Nirmal Craft Town,Bhainsa Border Node,66.1,29.6,23,63871,9.8,3,81.9,15.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-064,Telangana,Vikarabad,Vikarabad Hill Station,Ananthagiri Hills Eco-Zone,38.7,51.3,35,74508,6.7,5,72.3,39.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-065,Telangana,Vikarabad,Vikarabad Hill Station,Tandur Cement Corridor,42.6,33.5,27,43916,8.4,3,77.2,27.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-066,Telangana,Wanaparthy,Wanaparthy Town,Palace Heritage Zone,52.3,34.4,30,76205,7,2,78.5,23.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-067,Telangana,Wanaparthy,Wanaparthy Town,Pebbair Highway Node,43.5,52.5,35,29660,7.6,5,72.8,38.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-068,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Yadagirigutta Temple City,63.1,33.2,28,53513,10.4,3,80.5,18.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-069,Telangana,Yadadri Bhuvanagiri,Bhuvanagiri Temple City,Choutuppal Industrial Cluster,44.2,28,18,44498,10.7,1,78.8,23.1,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-070,Telangana,Adilabad,Adilabad Urban,Cotton Market Trading Zone,36.9,60.8,39,123458,5.7,4,69.7,45.7,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
+TS-LOC-071,Telangana,Adilabad,Adilabad Urban,Bela Border Node,35.6,54.3,37,119622,14.1,3,71.1,42.3,0,2026-10-05 18:30:00,SYNTHETIC_DEMO
